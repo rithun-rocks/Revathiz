@@ -1,7 +1,5 @@
-@font-face {
-   src: url(Frozen.tff);
-}
+.pfp{
+	max-height: 500px;
+	border-radius: 1000px
 
-.h1 {
-	font-family: "Frozen"
 }
